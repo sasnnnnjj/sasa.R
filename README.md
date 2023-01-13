@@ -1,2 +1,0 @@
-# sasa.R
-sasa
